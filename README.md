@@ -9,12 +9,12 @@
 - php artisan storage:link
 - setup database using .env file
 - php artisan migrate
-- php artisan  db:seed
-
+- php artisan db:seed
+- php artisan serve
 
 ```
 
-## default user levels
+## Default user levels
 
 ```
 - Super Admin
